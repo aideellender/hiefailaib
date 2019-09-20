@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaephoeba.glamourbazaar.co.uk/sitemap.xml
